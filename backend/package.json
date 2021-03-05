@@ -1,8 +1,7 @@
 {
-  "name": "strapi-api",
+  "name": "wongames-api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -26,7 +25,7 @@
     "strapi-utils": "3.5.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Felipe Borges"
   },
   "strapi": {
     "uuid": "bd560637-b5ba-4609-b149-5ee3d4ea9868"

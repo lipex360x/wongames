@@ -1,7 +1,7 @@
 services:
   postgresdb:
     image: postgres
-    container_name: strapi_api
+    container_name: wongames_api
     environment:
       - POSTGRES_USER=strapi
       - POSTGRES_PASSWORD=strapi
