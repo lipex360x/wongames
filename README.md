@@ -48,7 +48,7 @@ Check more details to start this project in the back-end and front-end folders
 ```json
  NextJS
  Styled Components
- Axios
+ GraphQL
 ```
 :rocket: [Go to Frontend Folder](https://github.com/lipex360x/XXXXXXXXXXXXXXXXXXX/tree/master/frontend)
 
