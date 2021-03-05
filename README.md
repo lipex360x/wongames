@@ -20,9 +20,7 @@
 
 #### :zap: Introduction
 
-This is a code repository for the Ecoleta Project.
-
-A Waste Collection Marketplace for you.
+This is a code repository for the Won Games Project.
 
 ---
 
@@ -37,7 +35,8 @@ Check more details to start this project in the back-end and front-end folders
 #### :zap: Backend Technologies
 
 ```json
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Strapi
+  GraphQL
 ```
 
 :rocket: [Go to Backend Folder](https://github.com/lipex360x/XXXXXXXXXXXXXXXXXXXXXX/tree/master/backend)
@@ -47,7 +46,7 @@ Check more details to start this project in the back-end and front-end folders
 #### :zap: Frontend Technologies
 
 ```json
- XXXXXXXXXXXXXXXXXXXXXX
+ NextJS
  Styled Components
  Axios
 ```
